@@ -23,4 +23,8 @@ public abstract class Fighter implements ICharacter {
     public void setHealthPoints(int healthPoints) {
         this.healthPoints = healthPoints;
     }
+
+    public int attack() {
+        return this.weapon.getAttackPower();
+    }
 }

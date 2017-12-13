@@ -35,5 +35,10 @@ public class CommanderTest {
         assertEquals(WeaponType.TREBUCHET, commander.getWeapon());
     }
 
-    
+    @Test
+    public void canGetAttackPower(){
+        assertEquals(50, commander.attack());
+    }
+
+
 }

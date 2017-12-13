@@ -11,11 +11,6 @@ public class Commander extends Fighter implements ICharacter {
         this.battleHorn = battleHorn;
     }
 
-    @Override
-    public int attack() {
-        return 0;
-    }
-
     public boolean getBattleHorn() {
         return battleHorn;
     }

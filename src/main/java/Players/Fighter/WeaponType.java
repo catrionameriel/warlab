@@ -20,7 +20,7 @@ public enum WeaponType {
     }
 
     public int getAttackPower(){
-        return attackPower;
+            return attackPower;
     }
 
 
