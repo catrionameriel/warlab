@@ -1,4 +1,4 @@
-package Players;
+package Players.Regal;
 
 public class Regal {
 }
