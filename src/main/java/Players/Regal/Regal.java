@@ -40,4 +40,8 @@ public abstract class Regal {
         int number = commandIndex.nextInt(4);
         return number;
     }
+    public CommandType getRandomCommandType() {
+        int number = this.getRandomNumber();
+        return this.commandTypes.get(number);
+    }
 }

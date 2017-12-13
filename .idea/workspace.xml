@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f6bd46-b7fd-4df3-8993-18737a6cfd08" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Players/Regal/Queen.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/QueenTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Players/Regal/King.class" afterPath="$PROJECT_DIR$/out/production/classes/Players/Regal/King.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Players/Regal/Regal.class" afterPath="$PROJECT_DIR$/out/production/classes/Players/Regal/Regal.class" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Players/Regal/King.java" afterPath="$PROJECT_DIR$/src/main/java/Players/Regal/King.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java" afterPath="$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/KingTest.java" afterPath="$PROJECT_DIR$/src/test/java/KingTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,8 +30,8 @@
       <file leaf-file-name="Regal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            <state relative-caret-position="398">
+              <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#496#497#0" expanded="true" />
@@ -48,8 +52,8 @@
       <file leaf-file-name="King.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/King.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+            <state relative-caret-position="279">
+              <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#411#412#0" expanded="true" />
@@ -61,21 +65,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ICharacter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Players/ICharacter.java">
+      <file leaf-file-name="Queen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/Queen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KingTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KingTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/KingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="42" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#491#504#0" expanded="true" />
@@ -92,36 +102,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Commander.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Fighter/Commander.java">
+      <file leaf-file-name="QueenTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/QueenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="1005">
+              <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
               <folding>
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#391#404#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+                <element signature="e#1110#1111#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#1224#1225#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommanderTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CommanderTest.java">
+      <file leaf-file-name="HorseProtector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/HorseProtector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -508,9 +517,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Players/Regal/HorseProtector.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProtectorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Players/Regal/Protector.java" />
+        <option value="$PROJECT_DIR$/src/test/java/KingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java" />
         <option value="$PROJECT_DIR$/src/main/java/Players/Regal/King.java" />
-        <option value="$PROJECT_DIR$/src/test/java/KingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Players/Regal/Queen.java" />
+        <option value="$PROJECT_DIR$/src/test/java/QueenTest.java" />
       </list>
     </option>
   </component>
@@ -636,7 +647,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.KingTest.canGetRandomCommandAttack">
+  <component name="RunManager" selected="JUnit.QueenTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -657,26 +668,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="KingTest.canGetDog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="WarLab_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KingTest" />
-      <option name="METHOD_NAME" value="canGetDog" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="KingTest.canGetDogAttackValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -758,6 +749,26 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="QueenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="WarLab_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueenTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -819,19 +830,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDog" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDogAttackValue" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDogAttackValue" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.QueenTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDogAttackValue" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDog" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.QueenTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDogAttackValue" />
       </list>
     </recent_temporary>
   </component>
@@ -876,11 +887,11 @@
     <history-entry file="KingTest_canGetRandomCommandAttack - 2017.12.13 at 15h 06m 25s.xml">
       <configuration name="KingTest.canGetRandomCommandAttack" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KingTest_canGetRandomNumber - 2017.12.13 at 14h 44m 54s.xml">
-      <configuration name="KingTest.canGetRandomNumber" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KingTest_canGetRandomNumber - 2017.12.13 at 14h 47m 18s.xml">
       <configuration name="KingTest.canGetRandomNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueenTest - 2017.12.13 at 15h 15m 08s.xml">
+      <configuration name="QueenTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1083,17 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/HorseProtector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Players/Fighter/Officer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1230,8 +1230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        <state relative-caret-position="398">
+          <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
@@ -1250,8 +1250,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/King.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        <state relative-caret-position="279">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#411#412#0" expanded="true" />
@@ -1262,10 +1262,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/KingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#491#504#0" expanded="true" />
@@ -1277,6 +1291,36 @@
             <element signature="e#1297#1298#0" expanded="true" />
             <element signature="e#1346#1347#0" expanded="true" />
             <element signature="e#1399#1400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/HorseProtector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/QueenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#391#404#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
           </folding>
         </state>
       </provider>
