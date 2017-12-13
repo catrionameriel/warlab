@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f6bd46-b7fd-4df3-8993-18737a6cfd08" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Players/Regal/Queen.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/QueenTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Battlefield/Bannockburn.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Battlefield/Battlefields.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Battlefield/Culloden.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Battlefield/StirlingBridge.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/BattlefieldTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Players/Regal/King.class" afterPath="$PROJECT_DIR$/out/production/classes/Players/Regal/King.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Players/Regal/Regal.class" afterPath="$PROJECT_DIR$/out/production/classes/Players/Regal/Regal.class" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Players/Regal/King.java" afterPath="$PROJECT_DIR$/src/main/java/Players/Regal/King.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java" afterPath="$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,28 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Regal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/Regal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="King.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/King.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueenTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QueenTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/QueenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#391#404#0" expanded="true" />
@@ -123,6 +100,92 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Battlefields.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/Battlefields.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Culloden.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/Culloden.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattlefieldTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BattlefieldTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="62" column="40" lean-forward="false" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#851#852#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+                <element signature="e#1165#1166#0" expanded="true" />
+                <element signature="e#1220#1221#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1353#1354#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1488#1489#0" expanded="true" />
+                <element signature="e#1558#1559#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StirlingBridge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/StirlingBridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bannockburn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/Bannockburn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="HorseProtector.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/HorseProtector.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,66 +194,6 @@
               <folding>
                 <element signature="e#100#101#0" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Protector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/Protector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DogProtector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/DogProtector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProtectorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProtectorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommandType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Regal/CommandType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -522,6 +525,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Players/Regal/King.java" />
         <option value="$PROJECT_DIR$/src/main/java/Players/Regal/Queen.java" />
         <option value="$PROJECT_DIR$/src/test/java/QueenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Battlefield/Battlefields.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Battlefield/Culloden.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Battlefield/Bannockburn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Battlefield/StirlingBridge.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BattlefieldTest.java" />
       </list>
     </option>
   </component>
@@ -573,6 +581,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WarLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WarLab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Battlefield" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WarLab" type="b2602c69:ProjectViewProjectNode" />
@@ -647,7 +663,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.QueenTest">
+  <component name="RunManager" selected="JUnit.BattlefieldTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -669,15 +685,15 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="KingTest.canGetDogAttackValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BattlefieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WarLab_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KingTest" />
-      <option name="METHOD_NAME" value="canGetDogAttackValue" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="BattlefieldTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -830,19 +846,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDogAttackValue" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.QueenTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.QueenTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BattlefieldTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.QueenTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.KingTest.canGetDogAttackValue" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BattlefieldTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.QueenTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommandAttack" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomCommand" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.KingTest.canGetRandomNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -863,14 +879,17 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KingTest_canGetRandomCommand - 2017.12.13 at 14h 48m 40s.xml">
-      <configuration name="KingTest.canGetRandomCommand" configurationId="JUnit" />
+    <history-entry file="BattlefieldTest - 2017.12.13 at 15h 22m 11s.xml">
+      <configuration name="BattlefieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KingTest_canGetRandomCommand - 2017.12.13 at 14h 50m 05s.xml">
-      <configuration name="KingTest.canGetRandomCommand" configurationId="JUnit" />
+    <history-entry file="BattlefieldTest - 2017.12.13 at 15h 25m 04s.xml">
+      <configuration name="BattlefieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KingTest_canGetRandomCommand - 2017.12.13 at 14h 53m 45s.xml">
-      <configuration name="KingTest.canGetRandomCommand" configurationId="JUnit" />
+    <history-entry file="BattlefieldTest - 2017.12.13 at 15h 27m 49s.xml">
+      <configuration name="BattlefieldTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BattlefieldTest - 2017.12.13 at 15h 28m 11s.xml">
+      <configuration name="BattlefieldTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="KingTest_canGetRandomCommand - 2017.12.13 at 14h 56m 20s.xml">
       <configuration name="KingTest.canGetRandomCommand" configurationId="JUnit" />
@@ -886,9 +905,6 @@
     </history-entry>
     <history-entry file="KingTest_canGetRandomCommandAttack - 2017.12.13 at 15h 06m 25s.xml">
       <configuration name="KingTest.canGetRandomCommandAttack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KingTest_canGetRandomNumber - 2017.12.13 at 14h 47m 18s.xml">
-      <configuration name="KingTest.canGetRandomNumber" configurationId="JUnit" />
     </history-entry>
     <history-entry file="QueenTest - 2017.12.13 at 15h 15m 08s.xml">
       <configuration name="QueenTest" configurationId="JUnit" />
@@ -1308,8 +1324,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/QueenTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="315">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#391#404#0" expanded="true" />
@@ -1321,6 +1337,82 @@
             <element signature="e#1174#1175#0" expanded="true" />
             <element signature="e#1224#1225#0" expanded="true" />
             <element signature="e#1278#1279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/Culloden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/Bannockburn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/StirlingBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Battlefield/Battlefields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BattlefieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="40" lean-forward="false" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
           </folding>
         </state>
       </provider>
