@@ -37,7 +37,7 @@ public abstract class Regal {
 
     public int getRandomNumber(){
         Random commandIndex = new Random();
-        int number = commandIndex.nextInt(4) + 0;
+        int number = commandIndex.nextInt(4);
         return number;
     }
 }

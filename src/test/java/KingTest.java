@@ -1,8 +1,10 @@
+import Players.Regal.CommandType;
 import Players.Regal.DogProtector;
 import Players.Regal.King;
 import Players.Regal.Protector;
 import org.junit.Before;
 import org.junit.Test;
+import sun.jvm.hotspot.debugger.win32.coff.COMDATSelectionTypes;
 
 import java.util.ArrayList;
 
@@ -15,7 +17,12 @@ public class KingTest {
 
     @Before
     public void before(){
-        king = new King(new ArrayList<>(),30);
+        ArrayList<CommandType> ct = new ArrayList<CommandType>();
+        ct.add(CommandType.ARROW);
+        ct.add(CommandType.CANNON);
+        ct.add(CommandType.FIREBALL);
+        ct.add(CommandType.EVERYONE);
+        king = new King(ct,30);
     }
 
     @Test
@@ -48,7 +55,18 @@ public class KingTest {
     @Test
     public void canGetRandomNumber(){
         assertNotNull(king.getRandomNumber());
-        assertEquals(2, king.getRandomNumber());
+    }
+
+    @Test
+    public void canGetRandomCommand(){
+        assertNotNull(king.getRandomCommandType());
+//        assertEquals(CommandType.ARROW, king.getRandomCommandType());
+    }
+
+    @Test
+    public void canGetRandomCommandAttack(){
+        assertNotNull(king.attack());
+//        assertEquals(10, king.attack());
     }
 
 

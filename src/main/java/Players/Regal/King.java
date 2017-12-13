@@ -22,9 +22,13 @@ public class King extends Regal implements ICharacter{
         this.reinforcements = reinforcements;
     }
 
-    public int attack() {
+    public CommandType getRandomCommandType() {
         int number = this.getRandomNumber();
-        CommandType commandType = this.commandTypes.get(number);
+        return this.commandTypes.get(number);
+    }
+
+    public int attack(){
+        CommandType commandType = getRandomCommandType();
         return commandType.getAttackPower();
     }
 }
