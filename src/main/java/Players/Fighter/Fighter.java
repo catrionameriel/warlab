@@ -20,7 +20,7 @@ public abstract class Fighter implements ICharacter {
         return healthPoints;
     }
 
-    public void setWeapon(WeaponType weapon) {
-        this.weapon = weapon;
+    public void setHealthPoints(int healthPoints) {
+        this.healthPoints = healthPoints;
     }
 }
